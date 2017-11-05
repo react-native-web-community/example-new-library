@@ -1,5 +1,5 @@
 import React from 'react';
-import YourComponent from 'react-native-web-name'
+import YourComponent from '{target-module}';
 
 import { storiesOf } from '@storybook/react';
 
